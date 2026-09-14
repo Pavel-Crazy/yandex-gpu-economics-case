@@ -1,0 +1,73 @@
+{
+  "base": {
+    "request_revenue_usd": 0.0073216,
+    "requests_s": 1.952322048611111,
+    "requests_h": 7028.359375,
+    "input_tokens_h": 57576320.0,
+    "output_tokens_h": 7197040.0,
+    "revenue_node_usd_h": 51.458836,
+    "gpu_cost_node_usd_h": 21.04,
+    "gpu_contribution_usd_h": 30.418836,
+    "gpu_margin_pct": 59.11295000920735,
+    "break_even_gpu_usd_h": 6.4323545,
+    "utilization": 1.0
+  },
+  "sensitivity": [
+    {
+      "gpu_price_usd_h": 1.98,
+      "request_revenue_usd": 0.0073216,
+      "requests_s": 1.952322048611111,
+      "requests_h": 7028.359375,
+      "input_tokens_h": 57576320.0,
+      "output_tokens_h": 7197040.0,
+      "revenue_node_usd_h": 51.458836,
+      "gpu_cost_node_usd_h": 15.84,
+      "gpu_contribution_usd_h": 35.618836,
+      "gpu_margin_pct": 69.21811445560098,
+      "break_even_gpu_usd_h": 6.4323545,
+      "utilization": 1.0
+    },
+    {
+      "gpu_price_usd_h": 2.63,
+      "request_revenue_usd": 0.0073216,
+      "requests_s": 1.952322048611111,
+      "requests_h": 7028.359375,
+      "input_tokens_h": 57576320.0,
+      "output_tokens_h": 7197040.0,
+      "revenue_node_usd_h": 51.458836,
+      "gpu_cost_node_usd_h": 21.04,
+      "gpu_contribution_usd_h": 30.418836,
+      "gpu_margin_pct": 59.11295000920735,
+      "break_even_gpu_usd_h": 6.4323545,
+      "utilization": 1.0
+    },
+    {
+      "gpu_price_usd_h": 5.86,
+      "request_revenue_usd": 0.0073216,
+      "requests_s": 1.952322048611111,
+      "requests_h": 7028.359375,
+      "input_tokens_h": 57576320.0,
+      "output_tokens_h": 7197040.0,
+      "revenue_node_usd_h": 51.458836,
+      "gpu_cost_node_usd_h": 46.88,
+      "gpu_contribution_usd_h": 4.5788359999999955,
+      "gpu_margin_pct": 8.898055914051369,
+      "break_even_gpu_usd_h": 6.4323545,
+      "utilization": 1.0
+    },
+    {
+      "gpu_price_usd_h": 6.43,
+      "request_revenue_usd": 0.0073216,
+      "requests_s": 1.952322048611111,
+      "requests_h": 7028.359375,
+      "input_tokens_h": 57576320.0,
+      "output_tokens_h": 7197040.0,
+      "revenue_node_usd_h": 51.458836,
+      "gpu_cost_node_usd_h": 51.44,
+      "gpu_contribution_usd_h": 0.018836000000000297,
+      "gpu_margin_pct": 0.036604014906206385,
+      "break_even_gpu_usd_h": 6.4323545,
+      "utilization": 1.0
+    }
+  ]
+}

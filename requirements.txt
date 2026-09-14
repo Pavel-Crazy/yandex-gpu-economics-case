@@ -1,0 +1,6 @@
+# Python >=3.10. The calculation script uses only the standard library.
+# Dependencies below are needed to execute and export the notebook.
+nbformat==5.10.4
+nbclient==0.10.2
+ipykernel==6.30.1
+nbconvert==7.16.6

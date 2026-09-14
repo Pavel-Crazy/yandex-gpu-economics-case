@@ -1,0 +1,21 @@
+GLM-5.2 / Sail — fixed slide scenario; USD
+Throughput: total input + output tokens; utilization: 100% of benchmark
+request_revenue_usd          0.007322
+requests_s                   1.952322
+requests_h                   7028.359375
+input_tokens_h               57576320.000000
+output_tokens_h              7197040.000000
+revenue_node_usd_h           51.458836
+gpu_cost_node_usd_h          21.040000
+gpu_contribution_usd_h       30.418836
+gpu_margin_pct               59.112950
+break_even_gpu_usd_h         6.432354
+utilization                  1.000000
+
+GPU USD/h | margin, exact % | slide %
+     1.98 |       69.218114 | 69%
+     2.63 |       59.112950 | 59%
+     5.86 |        8.898056 | 9%
+     6.43 |        0.036604 | 0%
+
+PASS: all slide values match at the displayed precision.
